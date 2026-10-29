@@ -17,13 +17,13 @@ This is a case-study dataset, not real company data.
 5. Wrote the findings and recommendations.
 
 ## Dashboard
-Each tab is made for one user, with its own slicer and a Reset button.
+Each tab is made for one user, with its own slicer and a Reset button. The hospital overview is the picture at the top.
 
-| Hospital overview | Doctor performance |
+| Doctor performance | Patient profile |
 |---|---|
-| ![Main](screenshots/dashboard_main.png) | ![Doctors](screenshots/dashboard_doctors.png) |
+| ![Doctors](screenshots/dashboard_doctors.png) | ![Patients](screenshots/dashboard_patients.png) |
 
-The [Patients tab](screenshots/dashboard_patients.png) compares one patient with the department and hospital averages. All 8 report pages are in [`powerbi/columbia_asia_report.pdf`](powerbi/columbia_asia_report.pdf), and the full report is in [`powerbi/columbia_asia_dashboard.pbix`](powerbi/columbia_asia_dashboard.pbix) (open it with Power BI Desktop).
+The doctor tab shows one doctor's patients, revenue, satisfaction and fee. The patient tab compares one patient with the department and hospital averages. All 8 report pages are in [`powerbi/columbia_asia_report.pdf`](powerbi/columbia_asia_report.pdf), and the full report is in [`powerbi/columbia_asia_dashboard.pbix`](powerbi/columbia_asia_dashboard.pbix) (open it with Power BI Desktop).
 
 ![Discounts and shifts](screenshots/report_discounts_and_shifts.png)
 
